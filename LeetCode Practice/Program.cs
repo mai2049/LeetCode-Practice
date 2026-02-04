@@ -1,0 +1,31 @@
+﻿using LeetCode_Practice;
+
+class Program
+{
+    private static void Main(string[] args)
+    {
+        //TwoSum1.Display();
+
+        //PalindromeNumber9.Display();
+
+        //RomanToInteger13.Display();
+
+        //LongestCommonPrefix14.Display();
+
+        //ValidParentheses20.Display();
+
+        //MergeTwoSortedLists21.Display();
+
+        //RemoveDuplicatesFromSortedArray26.Display();
+
+        //RemoveElement27.Display();
+
+        //SearchInsertPosition35.Display();
+
+        //LengthOfLastWord58.Display();
+
+        //PlusOne66.Display();
+
+        //AddBinary67.Display();
+    }
+}
