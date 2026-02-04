@@ -27,5 +27,17 @@ class Program
         //PlusOne66.Display();
 
         //AddBinary67.Display();
+
+        //Sqrtx69.Display();
+
+        //ClimbingStairs70.Display();
+
+        //RemoveDuplicatesFromSortedList83.Display();
+
+        //MergeSortedArray88.Display();
+
+        //BinaryTreeInorderTraversal94.Display();
+
+        //BinaryTreeInorderTraversal94.Display();
     }
 }
